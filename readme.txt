@@ -10,3 +10,6 @@ https://viewer.diagrams.net/index.html?highlight=0000ff&edit=_blank&layers=1&nav
 npm i uuid
 npm i jsonwebtoken bcrypt
 npm i express-fileupload
+
+
+npx create-react-app .
