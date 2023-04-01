@@ -11,5 +11,7 @@ npm i uuid
 npm i jsonwebtoken bcrypt
 npm i express-fileupload
 
-
+cd client
 npx create-react-app .
+npm i axios react-router-dom mobx mobx-react-lite
+npm install react-bootstrap bootstrap
